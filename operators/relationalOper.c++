@@ -7,7 +7,7 @@ int main(){
 
     cout<<(a>b)<<endl;
     cout<<(a<b)<<endl;
-    cout<<(a=b)<<endl;//assignment operator
+    cout<<(a=b)<<endl;//assignment operator =
     cout<<(a>=b)<<endl;
     cout<<(a<=b)<<endl;
     cout<<(a==b)<<endl;

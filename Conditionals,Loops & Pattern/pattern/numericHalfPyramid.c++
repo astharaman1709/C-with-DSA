@@ -14,6 +14,22 @@ int main(){
         }
         cout<<endl;
     }
+
+    //another logic
+     for (int row = 0; row < n; row++){
+        int num = row+1;
+       for (int col = 0; col < row+1;col++)
+       {
+        cout<<num<<" ";
+        num=num+1;
+       }
     
 
+    //other logic
+    //    for (int col = 0; col < row+1; col++)
+    //    {
+    //     cout<<row+col+1<<" ";
+    //    }
+      cout<<endl; 
+     }
 }
