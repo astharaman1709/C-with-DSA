@@ -9,4 +9,6 @@ int main(){
    cout<<(a^b)<<endl;//true (1)
    cout<<(a|b)<<endl;//true (1)
    cout<<~(a)<<endl; //false-2 as the twos complement
+   cout<<(~a)<<endl;//-2
+   cout<<~a<<endl;//-2
 }
